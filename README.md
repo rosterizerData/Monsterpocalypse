@@ -1,3 +1,3 @@
 # Monsterpocalypse
 
-https://raw.githubusercontent.com/RosterizerTestData/Monsterpocalypse/main/Monsterpocalypse-2.rulebook
+https://raw.githubusercontent.com/RosterizerData/Monsterpocalypse/main/Monsterpocalypse-2.rulebook
